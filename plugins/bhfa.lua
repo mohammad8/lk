@@ -143,13 +143,13 @@ local support_id = msg.from.id
 	  local name = print_name:gsub("_", "")
         savelog(msg.to.id, name.." ["..msg.from.id.."] used /id ")
         id = get_message(msg.reply_id,get_message_callback_id, false)
-    elseif matches[1]:lower() == 'id' then
+    elseif matches[1]:lower() == 'آیدی' or 'ایدی' then
       local name = user_print_name(msg.from)
       savelog(msg.to.id, name.." ["..msg.from.id.."] used /id ")
       return "Group ID for " ..string.gsub(msg.to.print_name, "_", " ").. ":\n\n"..msg.to.id
     end
   end
-  if matches[1]:lower() == 'kickme' and msg.to.type == "chat" then-- /kickme
+  if matches[1]:lower() == 'سیک می' and msg.to.type == "chat" then-- /kickme
   local receiver = get_receiver(msg)
     if msg.to.type == 'chat' then
       local print_name = user_print_name(msg.from):gsub("‮", "")
@@ -163,14 +163,14 @@ local support_id = msg.from.id
     return
   end
 
-  if matches[1]:lower() == "banlist" then -- Ban list !
+  if matches[1]:lower() == "لیست بن" then -- Ban list !
     local chat_id = msg.to.id
     if matches[2] and is_admin1(msg) then
       chat_id = matches[2]
     end
     return ban_list(chat_id)
   end
-  if matches[1]:lower() == 'ban' then-- /ban
+  if matches[1]:lower() == 'سیک' then-- /ban
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin1(msg) then
 		msgr = get_message(msg.reply_id,ban_by_reply_admins, false)
@@ -208,7 +208,7 @@ local support_id = msg.from.id
   end
 
 
-  if matches[1]:lower() == 'unban' then -- /unban
+  if matches[1]:lower() == 'سیکاف' then -- /unban
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       local msgr = get_message(msg.reply_id,unban_by_reply, false)
     end
@@ -235,7 +235,7 @@ local support_id = msg.from.id
 	end
  end
 
-if matches[1]:lower() == 'kick' then
+if matches[1]:lower() == 'اخراج' then
     if type(msg.reply_id)~="nil" and is_momod(msg) then
       if is_admin1(msg) then
         msgr = get_message(msg.reply_id,Kick_by_reply_admins, false)
@@ -276,7 +276,7 @@ end
 		return
 	end
 
-  if matches[1]:lower() == 'banall' and is_admin1(msg) then -- Global ban
+  if matches[1]:lower() == 'سوپربن+' and is_admin1(msg) then -- Global ban
     if type(msg.reply_id) ~="nil" and is_admin1(msg) then
       banall = get_message(msg.reply_id,banall_by_reply, false)
     end
@@ -300,7 +300,7 @@ end
 		resolve_username(username, kick_ban_res, cbres_extra)
       end
   end
-  if matches[1]:lower() == 'unbanall' then -- Global unban
+  if matches[1]:lower() == 'سوپربن-' then -- Global unban
     local user_id = matches[2]
     local chat_id = msg.to.id
       if string.match(matches[2], '^%d+$') then
@@ -308,7 +308,7 @@ end
           	return false
         end
        		unbanall_user(user_id)
-        	return '> ['..user_id..' ] Un-Globally Banned from all Groups/SuperGroups With @MegaTesla'
+        	return 'با آیدی ['..user_id..' ]\nز سوپربن خارج شد!'
     else
 		local cbres_extra = {
 			chat_id = msg.to.id,
@@ -320,41 +320,26 @@ end
 		resolve_username(username, kick_ban_res, cbres_extra)
       end
   end
-  if matches[1]:lower() == "gbanlist" then -- Global ban list
+  if matches[1]:lower() == "لیست سوپربن" then -- Global ban list
     return banall_list()
   end
 end
 
 return {
   patterns = {
-    "^[#!/]([Bb]anall) (.*)$",
-	"^([Bb]anall) (.*)$",
-    "^[#!/]([Bb]anall)$",
-	"^([Bb]anall)$",
-    "^[#!/]([Bb]anlist) (.*)$",
-	"^([Bb]anlist) (.*)$",
-    "^[#!/]([Bb]anlist)$",
-	"^([Bb]anlist)$",
-    "^[#!/]([Gg]banlist)$",
-	"^([Gg]banlist)$",
-	"^[#!/]([Kk]ickme)",
-	"^([Kk]ickme)",
-    "^[#!/]([Kk]ick)$",
-	"^([Kk]ick)$",
-	"^[#!/]([Bb]an)$",
-	"^([Bb]an)$",
-    "^[#!/]([Bb]an) (.*)$",
-	"^([Bb]an) (.*)$",
-    "^[#!/]([Uu]nban) (.*)$",
-	"^([Uu]nban) (.*)$",
-    "^[#!/]([Uu]nbanall) (.*)$",
-	"^([Uu]nbanall) (.*)$",
-    "^[#!/]([Kk]ick) (.*)$",
-	"^([Kk]ick) (.*)$",
-    "^[#!/]([Uu]nban)$",
-	"^([Uu]nban)$",
-	"^[#!/]([Ii]d)$",
-	"^([Ii]d)$",
+    "^(سوپربن+) (.*)$",
+	"^(سوپربن+)$",
+	"^(لیست بن ) (.*)$",
+	"^(لیست بن )$",
+	"^(لیست سوپربن)$",
+	"^(سیک می)",
+	"^(اخراج)$",
+	"^(سیک)$",
+	"^(سیک) (.*)$",
+	"^(سیکاف) (.*)$",
+	"^(سوپربن-) (.*)$",
+	"^(اخراج) (.*)$",
+	"^(سیکاف)$",
     "^!!tgservice (.+)$"
   },
   run = run,

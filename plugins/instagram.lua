@@ -1,3 +1,4 @@
+
 local access_token = "3084249803.280d5d7.999310365c8248f8948ee0f6929c2f02" -- your api key
 local function instagramUser(msg, query)
     local receiver = get_receiver(msg)
@@ -38,7 +39,7 @@ local function instagramUser(msg, query)
 	if user.data.website ~= '' then
 		text = text.."Website: "..user.data.website.."\n"
 	end
-	text = text.."\n@Taylor_Team"
+	text = text.."\n@GPMod"
 	local file_path = download_to_file(user.data.profile_picture,"insta.png")     -- disable this line if you want to send profile photo as sticker
 	--local file_path = download_to_file(user.data.profile_picture,"insta.webp")    -- enable this line if you want to send profile photo as sticker
 	local cb_extra = {file_path=file_path}
@@ -72,7 +73,7 @@ local function instagramMedia(msg, query)
 		  text = text.."Name: "..jdat.data.user.full_name.."\n"
 		  text = text.."Like Count: "..jdat.data.likes.count.."\n"
 	end
-	text = text.."\n@Taylor_Team"
+	text = text.."\n@GPMod"
 	send_msg(receiver,text,ok_cb,false)
 end
 local function run(msg, matches)
@@ -88,11 +89,11 @@ end
 end
 return {
    patterns = {
-   "^[/!]([Ii]nsta) ([Hh]ttps://www.instagram.com/p/)([^%s]+)$",
-   "^[/!]([Ii]nsta) ([Hh]ttps://instagram.com/p/)([^%s]+)$",
-   "^[/!]([Ii]nsta) ([Hh]ttp://www.instagram.com/p/)([^%s]+)$",
-   "^[/!]([Ii]nsta) ([Hh]ttp://instagram.com/p/)([^%s]+)$",
-   "^[/!]([Ii]nsta) ([^%s]+)$",
+   "^[#/!]([Ii]nsta) ([Hh]ttps://www.instagram.com/p/)([^%s]+)$",
+   "^[#/!]([Ii]nsta) ([Hh]ttps://instagram.com/p/)([^%s]+)$",
+   "^[#/!]([Ii]nsta) ([Hh]ttp://www.instagram.com/p/)([^%s]+)$",
+   "^[#/!]([Ii]nsta) ([Hh]ttp://instagram.com/p/)([^%s]+)$",
+   "^[#/!]([Ii]nsta) ([^%s]+)$",
    },
    run = run
 }

@@ -22,7 +22,7 @@ local service = msg.service
 		else
 			from_username = "@[none]"
 		end
-		text = "User From Info:\n\nID: "..from_id.."\nFirst: "..from_first_name.."\nLast: "..from_last_name.."\nUsername: "..from_username
+		text = "User From Info:\n\nID > "..from_id.."\nFirst > "..from_first_name.."\nLast > "..from_last_name.."\nUsername > "..from_username
 		send_large_msg(user, text)
 	end
 	return msg
@@ -35,7 +35,7 @@ local function chat_list(msg)
     if not data[tostring(groups)] then
         return 'No groups at the moment'
     end
-    local message = 'List of Groups:\n*Use #join (ID) to join*\n\n'
+    local message = '> List of Groups/SuperGroups:\n*Use #join (ID) to join*\n\n'
     for k,v in pairsByKeys(data[tostring(groups)]) do
 		local group_id = v
 		if data[tostring(group_id)] then
@@ -90,9 +90,9 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 	end
     if matches[1] == 'join' then
 	local data = load_data(_config.moderation.data)
-	if matches[2]:lower() == 'english' and matches[3]:lower() == 'support' then
-		savelog(msg.to.id, name_log.." ["..msg.from.id.."] tried to join English support")
-		local target = 1041751030
+	if matches[2]:lower() == 'megatesla' and matches[3]:lower() == 'support' then
+		savelog(msg.to.id, name_log.." ["..msg.from.id.."] tried to join megatesla support")
+		local target = 1031459611
 		local long_id = data[tostring(target)]['long_id']
 		if is_banned(msg.from.id, tostring(target)) then
 			return 'You are banned.'
@@ -113,7 +113,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 		channel_invite(channel, user, ok_cb, false)
 	elseif matches[2]:lower() == 'persian' and matches[3]:lower() == 'support' then
 		savelog(msg.to.id, name_log.." ["..msg.from.id.."] tried to join Persian support")
-		local target = 1017700355
+		local target = 1031459611
 		local long_id = data[tostring(target)]['long_id']
 		if is_banned(msg.from.id, tostring(target)) then
 			return 'You are banned.'
@@ -208,7 +208,7 @@ if to == 'user' or service or is_admin1(msg) and to == "chat" or to == "channel"
 
 	if matches[1] == 'help' and msg.to.type == 'user' or matches[1] == 'pmhelp' and is_admin1(msg) and msg.to.type ~= 'user' then
       	savelog(msg.to.id, name_log.." ["..msg.from.id.."] used pm help")
-		text = "Welcome Taylor Bot \n admin Taylor Bot : \n @negative_officiall \n channel Taylor Bot : \n @taylor_team \n send me \n /superhelp \n /chats \n /taylor "
+		text = "Welcome to MegaTesla!\n\n>To get a new MegaTesla group, contact a support group:\nsend #reqgp\n\nFor more information, check out our channels:\n\n@MegaTesla_Ch \n\nUse #superhelp command to show bot commands!!\n\n#Thanks_for_using @MegaTesla!"
      	return text
     end
 
@@ -256,3 +256,4 @@ return {
     run = run,
 	pre_process = pre_process
 }
+--
