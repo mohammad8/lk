@@ -1,0 +1,630 @@
+[ Tue May 17 18:14:34 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Tue May 17 18:14:47 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [106512277] as owner by reply
+ 
+[ Tue May 17 18:21:13 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 17 18:21:18 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 17 18:24:14 2016 ]=>  😔😔غــــــــریبــــــه😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 17 18:30:17 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked tgservice actions
+ 
+[ Tue May 17 18:56:58 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [10]
+ 
+[ Tue May 17 19:09:48 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Tue May 17 19:14:46 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [20]
+ 
+[ Tue May 17 19:20:57 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [106512277] as admin by reply
+ 
+[ Tue May 17 19:58:32 2016 ]=>  😔😔غــــــــریبــــــه😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 17 21:46:51 2016 ]=>  😔😔غــــــــریبــــــه😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Wed May 18 07:26:49 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Wed May 18 07:26:52 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Wed May 18 07:52:28 2016 ]=>  😘Darma...... Dagin😔😔😔 [181852914] renamed SuperGroup to: ❦❧Gнαяïвε❧❦
+ 
+[ Wed May 18 18:54:26 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Wed May 18 18:59:38 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Wed May 18 19:13:20 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Wed May 18 19:13:24 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Wed May 18 19:42:29 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [106512277] as owner by reply
+ 
+[ Wed May 18 19:43:48 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Wed May 18 21:06:26 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Wed May 18 21:09:45 2016 ]=>  Sara [177796990] kicked for #spam
+ 
+[ Thu May 19 09:15:44 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Thu May 19 09:28:22 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Thu May 19 09:47:20 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 16:00:28 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [106512277] as owner by reply
+ 
+[ Mon May 23 16:00:36 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 16:16:44 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked link posting
+ 
+[ Mon May 23 16:17:02 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 16:30:54 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] by reply
+ 
+[ Mon May 23 16:31:04 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group modlist
+ 
+[ Mon May 23 16:32:26 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @Nilo [200067593] by reply
+ 
+[ Mon May 23 16:32:37 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group modlist
+ 
+[ Mon May 23 16:33:59 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group modlist
+ 
+[ Mon May 23 16:46:57 2016 ]=>  proud.....scary...world ***روزامسخت...دنیامشیرین..**** [105408974] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 23 16:54:02 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked fosh posting
+ 
+[ Mon May 23 17:00:30 2016 ]=>  ✿↝..سماŞάრãɲeنه...↜✿ [192360238] kicked (fosh was locked) 
+ 
+[ Mon May 23 17:03:30 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [10]
+ 
+[ Mon May 23 17:06:57 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @✿↝..سماŞάრãɲeنه...↜✿ [192360238] by reply
+ 
+[ Mon May 23 17:16:58 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 17:20:56 2016 ]=>  A__DREAM_FREEDOM [218319993] kicked (fosh was locked) 
+ 
+[ Mon May 23 17:24:16 2016 ]=>  Nilo [200067593] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 17:58:21 2016 ]=>  E_S [180029883] kicked (fosh was locked) 
+ 
+[ Mon May 23 18:15:44 2016 ]=>  Ŋε∂ⓐ [186548575] kicked (fosh was locked) 
+ 
+[ Mon May 23 18:47:02 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked tgservice actions
+ 
+[ Mon May 23 18:55:50 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 23 19:07:14 2016 ]=>  مـِھـــــــدی [206530016] kicked (fosh was locked) 
+ 
+[ Mon May 23 19:13:18 2016 ]=>  🔖_L_._A_._M_._M_._E_._R_🔖 [228606997] kicked (fosh was locked) 
+ 
+[ Mon May 23 19:34:40 2016 ]=>  💗_-_نیلوفر_-_💗 [189244713] kicked (fosh was locked) 
+ 
+[ Tue May 24 06:07:16 2016 ]=>  ⚜عَلْـــــΑℓιـٌيّ⚜ [141281552] kicked (fosh was locked) 
+ 
+[ Tue May 24 06:07:37 2016 ]=>  ari [215813383] kicked (fosh was locked) 
+ 
+[ Tue May 24 06:08:20 2016 ]=>  ســٍُـــــٍّــــًٍــpashaـٍّــــٍُــــــًٍـعــِّـــــیـــــًٌِــــدِّ [178301683] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 06:20:31 2016 ]=>  ＧﾑriB£ [181852914] kicked (fosh was locked) 
+ 
+[ Tue May 24 06:33:58 2016 ]=>  بهزاد_یاری [121581067] kicked (fosh was locked) 
+ 
+[ Tue May 24 07:18:42 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set group to: public
+ 
+[ Tue May 24 07:19:39 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 07:19:48 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 07:26:38 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 24 10:18:52 2016 ]=>  ✔تـــک دخــے خـــوشـگل گـــاردم روالـــه☞ [199706400] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 10:39:08 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:40:41 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:04 2016 ]=>  i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:10 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:21 2016 ]=>  i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:28 2016 ]=>  i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:38 2016 ]=>  i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:41:59 2016 ]=>  i ﾑʍ a sﾑ∂ ｇirℓ... [205681882] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:42:43 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:44:47 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:47:32 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 10:58:32 2016 ]=>  ＧﾑriB£ [181852914] kicked (fosh was locked) 
+ 
+[ Tue May 24 11:02:43 2016 ]=>  🎀***ცﾑЯﾑŋﾑℳ***🎀 [170927553] kicked (fosh was locked) 
+ 
+[ Tue May 24 11:07:52 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 11:08:30 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 11:09:54 2016 ]=>  ًاًًٍٍځًٍـًًٍٍـًٍمًًٍٍـًًٍٍډًٍۿًٍـًًٍٍٲنٌٍٍښًًًًٍٍــًًٍٍمًٍ ڪًٍٵًٍٍبـًًٍٍۉًًٍښ ًٍھًٍٍـمًًٍٍـهًٍ ٱًٍتًٍحًًٍٍـًًٍــًًٍٳڋ‌ًٍھًًٍٍـآًٍ ⇜پلشــــــــــ ☜گُنده تَر از زَمیــــــــن کِه نیســــتے ☜زَمین با هَمِــــــه اوباهـَــــتِش ⇩زیر پاے مَنه  ✘پَسّ بِکـــــــِـشْ کـنِـــــار [188289219] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 11:54:40 2016 ]=>  (Javad)™ [219395729] kicked (fosh was locked) 
+ 
+[ Tue May 24 12:04:41 2016 ]=>  بـًٍـًٍـًٍـًٍدَاَخًـًٍـًٍـًٍـʘَِِِّ͜͡ʘًَِِِـًٍـًٍـًلاٰقْ [204646209] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 12:23:44 2016 ]=>  ▒🍁ℳѺĦѦℳℳѦÐ🍁▒ [159741160] kicked (fosh was locked) 
+ 
+[ Tue May 24 12:31:42 2016 ]=>  ⇨⇨oɴe dαy yoυ wιll мιѕѕ мe... ⇦⇦ Letter for you.                   (        (   (        (      Please Open It?       ======          )"   I    ")       / "LOVE"/      (" YOU "(       ===== ِ [190355623] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 12:31:55 2016 ]=>  ⇨⇨oɴe_dαy_yoυ_wιll_мιѕѕ_мe..._⇦⇦_Letter_for_you.___________________(________(___(________(______Please_Open_It?_______======__________)"___I____")_______/_"LOVE"/______("_YOU_"(_______=====_ِ [190355623] kicked (fosh was locked) 
+ 
+[ Tue May 24 12:32:00 2016 ]=>  مهسا🎬🎭 [126239308] kicked (fosh was locked) 
+ 
+[ Tue May 24 12:57:37 2016 ]=>  💫💥اریـــคriคـــا💥💫 [209475745] kicked (fosh was locked) 
+ 
+[ Tue May 24 13:05:14 2016 ]=>  شبگرد [207723632] kicked for #spam
+ 
+[ Tue May 24 13:05:14 2016 ]=>  شبگرد [207723632] kicked for #spam
+ 
+[ Tue May 24 13:05:15 2016 ]=>  شبگرد [207723632] kicked for #spam
+ 
+[ Tue May 24 13:05:15 2016 ]=>  شبگرد [207723632] kicked for #spam
+ 
+[ Tue May 24 13:13:38 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 13:20:43 2016 ]=>  علی [120860844] kicked (fosh was locked) 
+ 
+[ Tue May 24 14:08:12 2016 ]=>  ⇨⇨oɴe_dαy_yoυ_wιll_мιѕѕ_мe..._⇦⇦_Letter_for_you.___________________(________(___(________(______Please_Open_It?_______======__________)"___I____")_______/_"LOVE"/______("_YOU_"(_______=====_ِ [190355623] kicked (fosh was locked) 
+ 
+[ Tue May 24 14:24:19 2016 ]=>  ______ [161803899] kicked (fosh was locked) 
+ 
+[ Tue May 24 14:34:25 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set SuperGroup to: mute گیف
+ 
+[ Tue May 24 14:34:33 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set SuperGroup to: mute فیلم
+ 
+[ Tue May 24 14:38:03 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked link posting
+ 
+[ Tue May 24 14:38:34 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 14:39:07 2016 ]=>  ♛๊فـٍٓ؁ـږƒαяïδــیـــڋ♛ [86583718] kicked (fosh was locked) 
+ 
+[ Tue May 24 14:43:25 2016 ]=>  ____!/\/_：) [192259794] kicked (fosh was locked) 
+ 
+[ Tue May 24 14:58:58 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 24 15:01:30 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 15:26:18 2016 ]=>  ❌اََََدِِِِّّوّّیِِِّّــــــــــنّّ❌ [133541381] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 15:38:17 2016 ]=>  ❌اََََدِِِِّّوّّیِِِّّــــــــــنّّ❌ [133541381] kicked (fosh was locked) 
+ 
+[ Tue May 24 15:43:08 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked sticker posting
+ 
+[ Tue May 24 16:01:37 2016 ]=>  💋ehsan💋🎤🎤🎤 [176791586] kicked (fosh was locked) 
+ 
+[ Tue May 24 16:06:50 2016 ]=>  ✯اﻤــــیــỠℳidــــב✯ [198532494] kicked (fosh was locked) 
+ 
+[ Tue May 24 16:09:03 2016 ]=>    € H  🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣 🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣🐾👣 [118130025] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 16:27:55 2016 ]=>  ♡_سلطان_♡_احساس_♡ [197711349] kicked (fosh was locked) 
+ 
+[ Tue May 24 16:44:07 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 16:44:58 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 16:46:11 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 24 17:13:37 2016 ]=>  👇مـٰٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖٖٖٖٖٖٖـٰٖٖٖٖٖٖٖٖـٰٖٖٖٖٖـژده👇 به همه [95660029] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 17:48:58 2016 ]=>  omid [168912942] kicked (fosh was locked) 
+ 
+[ Tue May 24 17:52:24 2016 ]=>  ＧﾑriB£ [181852914] kicked (fosh was locked) 
+ 
+[ Tue May 24 17:56:07 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @ＧﾑriB£ [181852914] by reply
+ 
+[ Tue May 24 17:57:29 2016 ]=>  ••●تنهــــــــــťãňhăــــــــــا●•• [191082616] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 18:01:13 2016 ]=>  ⏳گذشتههاازارممیدهند⌛️ [123759394] kicked for #spam
+ 
+[ Tue May 24 18:01:13 2016 ]=>  ⏳گذشتههاازارممیدهند⌛️ [123759394] kicked for #spam
+ 
+[ Tue May 24 18:01:14 2016 ]=>  ⏳گذشتههاازارممیدهند⌛️ [123759394] kicked for #spam
+ 
+[ Tue May 24 18:15:24 2016 ]=>  ALIREZA [238760816] kicked (fosh was locked) 
+ 
+[ Tue May 24 18:19:15 2016 ]=>  Fateme [181782149] kicked (fosh was locked) 
+ 
+[ Tue May 24 21:47:18 2016 ]=>  ❤🔥دخی_بداخلاق🔥❤ [217717138] kicked (fosh was locked) 
+ 
+[ Tue May 24 22:42:41 2016 ]=>  amir [227168364] kicked (fosh was locked) 
+ 
+[ Wed May 25 03:27:27 2016 ]=>  ▁ ▂ ▄ ▅ ▆ ▇ █√ ❤❤₴ндняд๓❧❧ √█ ▇ ▆ ▅ ▄ ▂ ▁ [131340633] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 03:27:27 2016 ]=>  ▁ ▂ ▄ ▅ ▆ ▇ █√ ❤❤₴ндняд๓❧❧ √█ ▇ ▆ ▅ ▄ ▂ ▁ [131340633] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 03:49:50 2016 ]=>  vahid_t [37947366] kicked (fosh was locked) 
+ 
+[ Wed May 25 04:25:31 2016 ]=>  Hesam [108108269] kicked (fosh was locked) 
+ 
+[ Wed May 25 05:06:12 2016 ]=>  ⚜عَلْـــــΑℓιـٌيّ⚜ [141281552] kicked (fosh was locked) 
+ 
+[ Wed May 25 05:06:18 2016 ]=>  رضا#1 [127458812] kicked (fosh was locked) 
+ 
+[ Wed May 25 06:02:24 2016 ]=>  👍سلطان احساسات 😉 ای بابا بازم ریپورت شدم [143787635] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 07:17:38 2016 ]=>  (سلطان~~~تنها)ArAsH https://telegram.me/joinchat/C3ZwMz8FHxPlV G1Cfsf9Q سوپرگپ دختر👩👦پسر😍 چت.متن.موزیک📲💻📱🎧🎼📜📃 پیوی خانوما ممنوع📛 https://telegram.me/joinchat/C3ZwMz8FHxPlV G1Cfsf9Q سوپرگپ دختر👩👦پسر😍 چت.متن.موزیک📲💻📱🎧🎼📜📃 پیوی خانوما https://telegram.me/joinchat/C3ZwMz8FHxPlV G [133718626] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 07:29:14 2016 ]=>  Hesam [108108269] kicked (fosh was locked) 
+ 
+[ Wed May 25 07:44:28 2016 ]=>  👿_SNM_👿 [157304955] kicked (fosh was locked) 
+ 
+[ Wed May 25 07:46:22 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Wed May 25 08:21:42 2016 ]=>  Mostafa#1 [126702179] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:26:44 2016 ]=>  Bad*boy [95500332] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:28:26 2016 ]=>  🎭FЦCкЄЯ🎭 [233414178] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:29:43 2016 ]=>  ♥معاون_گروه♥ [209758564] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:29:43 2016 ]=>  🌟_text_&_photo_🌟 [203767418] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:59:04 2016 ]=>  شیرین [156083037] kicked (fosh was locked) 
+ 
+[ Wed May 25 08:59:06 2016 ]=>  😍آیــــِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّـــayًٌٌِِِّّّّّّّّhanــًًًًًًًًٌَِِِِِِِِِِِِِِِِِّـهان 😍mehrabi [115384263] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 08:59:06 2016 ]=>  😍آیــــِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّـــayًٌٌِِِّّّّّّّّhanــًًًًًًًًٌَِِِِِِِِِِِِِِِِِّـهان 😍mehrabi [115384263] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 09:03:03 2016 ]=>  🎀Jąmşhįd👑 [105292931] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:13:04 2016 ]=>  ⚡ریپورتم⚡ [221146916] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:14:49 2016 ]=>  Lucky_Boy [191164462] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:24:11 2016 ]=>  Bad*boy [95500332] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:48:57 2016 ]=>  👑MOHAMAD👑 [119033993] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:52:09 2016 ]=>  ☆°Aℓɨ°☆ [168688011] kicked (fosh was locked) 
+ 
+[ Wed May 25 09:55:42 2016 ]=>  Goliًًًًًًًًًًٍََُُُٰٓٓٓ‍ًًًًًَُُُِِِ‍‍ًًًًًًًًًٍٍٍََََُُُٓٓٓ‍ًًًًًًًًًًًًًًًًًًًًًًًٍٍٍََََُُِِِٰٰٰٰٰٰٖٖٖٖٖٓٓٓٓٓٓٓ‍‍ًًًًًًًًًٍٍٍََََُُُٓٓٓ‍ًًًًًًًًٍٍٍََََُُِِِٰٰٖٖٖٖٓٓٓٓٓٓ [182624979] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 10:06:32 2016 ]=>  سما [83185090] kicked (fosh was locked) 
+ 
+[ Wed May 25 10:07:57 2016 ]=>  معاونمدیر [189802310] kicked for #spam
+ 
+[ Wed May 25 10:07:57 2016 ]=>  معاونمدیر [189802310] kicked for #spam
+ 
+[ Wed May 25 10:46:47 2016 ]=>  عاشق [178295631] kicked (fosh was locked) 
+ 
+[ Wed May 25 11:27:54 2016 ]=>  ✘✔Ҭคҭคใเҭұ✔✘∵ →Ŋobąţęmąŋę™∅♕๓♥ƒ♕▓ [103134454] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 11:37:21 2016 ]=>  بانو [210002707] kicked (fosh was locked) 
+ 
+[ Wed May 25 11:39:47 2016 ]=>  🐺ًٍُُّْฟًٍُّّΘّّّّّّℓًٌٍُّّْٰٔƒ ًٍِّβّّّΘًٍُِّّْγ🐺 [129114384] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 11:43:09 2016 ]=>  ௱ØらΛ尺ƐẔΛ らΛÐi.❀•Ƹ̵̡Ӝ̵̨̄Ʒ(m)︻╦̵̵ ╤──︻╦̵̵͇─▃▄▅▆▇█▓▒┣▇௱ØらΛ尺ƐẔΛ らΛÐi ▇▇▇▇═─░▒▓█▇▆▅︻╦̵̵╤──︻╦̵̵͇ (s)Ƹ̵̡Ӝ̵̨̄Ʒ❀ [106988466] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 11:45:40 2016 ]=>  سید__عیسی [196198666] kicked (fosh was locked) 
+ 
+[ Wed May 25 11:47:04 2016 ]=>  👑💕Hossein_bi_kas👓👑 [184321219] kicked (fosh was locked) 
+ 
+[ Wed May 25 12:02:46 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ [106512277] set: [211296896] as admin by reply
+ 
+[ Wed May 25 12:11:21 2016 ]=>  ._.#1 [123236329] kicked (fosh was locked) 
+ 
+[ Wed May 25 12:14:21 2016 ]=>  ریپورتمدهاستکیربفرستخان @sarasharare [179768366] kicked for #spam
+ 
+[ Wed May 25 12:14:21 2016 ]=>  ریپورتمدهاستکیربفرستخان @sarasharare [179768366] kicked for #spam
+ 
+[ Wed May 25 12:14:21 2016 ]=>  ریپورتمدهاستکیربفرستخان @sarasharare [179768366] kicked for #spam
+ 
+[ Wed May 25 12:14:22 2016 ]=>  ریپورتمدهاستکیربفرستخان @sarasharare [179768366] kicked for #spam
+ 
+[ Wed May 25 12:18:28 2016 ]=>  Emad. [210254342] kicked (fosh was locked) 
+ 
+[ Wed May 25 12:34:47 2016 ]=>  farzad [116413994] kicked (fosh was locked) 
+ 
+[ Wed May 25 12:43:45 2016 ]=>  Javad [107311534] kicked (fosh was locked) 
+ 
+[ Wed May 25 12:53:34 2016 ]=>  😓سختــہ بد شدنـ , ولے منـ عوضـ شدم...  دختر بد...😥 [131599024] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 12:57:00 2016 ]=>  😜😜دخــــــــــــــــــــــــــے💞شـــــــــــــــــــــیـــــــــــــــطــــــــــــــــــــــون بــــــــــــــــــلا😜😜 [165096597] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 14:14:15 2016 ]=>  AMir_Ho3Ein [98448480] kicked (fosh was locked) 
+ 
+[ Wed May 25 14:34:00 2016 ]=>  هلی [223831143] kicked (fosh was locked) 
+ 
+[ Wed May 25 14:38:28 2016 ]=>  اقای_لطفی [212242681] kicked (fosh was locked) 
+ 
+[ Wed May 25 14:38:54 2016 ]=>  nima [125026057] kicked (fosh was locked) 
+ 
+[ Wed May 25 14:39:22 2016 ]=>  محمد#6 [65663552] kicked (fosh was locked) 
+ 
+[ Wed May 25 14:42:22 2016 ]=>  امیر#1 [116375563] kicked (fosh was locked) 
+ 
+[ Wed May 25 16:17:55 2016 ]=>  Mahdi [233688575] kicked (fosh was locked) 
+ 
+[ Wed May 25 16:50:00 2016 ]=>  علی#1 [164719499] kicked (fosh was locked) 
+ 
+[ Wed May 25 17:24:55 2016 ]=>  ثَمیـــــــSaminـــــــنَم [94272276] kicked (fosh was locked) 
+ 
+[ Wed May 25 17:28:25 2016 ]=>  بغض aٌٌٌٌٌٌِِِِِّّّّّّّ‎‎ﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞٌِِِِِّّّّّّّ [104990032] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 17:30:40 2016 ]=>  بغض_aٌٌٌٌٌٌِِِِِّّّّّّّ‎‎ﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞﱞ‮‮ٌِِِِِّّّّّّّ [104990032] kicked (fosh was locked) 
+ 
+[ Wed May 25 17:31:41 2016 ]=>  مونا_😉 [220642387] kicked (fosh was locked) 
+ 
+[ Wed May 25 17:39:15 2016 ]=>  ✌nafas✌ [161410952] kicked (fosh was locked) 
+ 
+[ Wed May 25 20:43:51 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Wed May 25 20:49:31 2016 ]=>  ۩✞ابــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔـــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔلیـــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔس✞۩ [137735186] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 20:51:47 2016 ]=>  ۩✞ابــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔـــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔلیـــ۪۪۪ٜـَ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـ۪۪ٜؓؔس✞۩ [137735186] kicked (fosh was locked) 
+ 
+[ Wed May 25 20:55:47 2016 ]=>  S,s [205868228] kicked (fosh was locked) 
+ 
+[ Wed May 25 20:57:38 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked fosh posting
+ 
+[ Thu May 26 08:33:31 2016 ]=>  ــٰٰٰٖٜٜٓـٰٰٜٜٜٓـٰٜٜٜٜٓـٜٜٜٜٜٓـٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜـٜٜٜٜٜٜٜٜٜـٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٓـٜٜٜٜٜٓـٜٜٜٜٓـٰٜٜٜٓـٰٰٜٜٓـٰٰٰٖ  alireza ـٰٰٰٖٜٓـٰٰٜٜٓـٰٜٜٜٜٓـٜٜٜٜٜٓـٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٓـٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜٜـٜٜٜٜٜٜٜٜٜـٜٜٜٜٜٜٓ [205951603] joined and Service Msg deleted (#spam name)
+ 
+[ Fri May 27 20:24:55 2016 ]=>  ℳ๑んคო๓λժ.AιI🔰ხi gんα ℳ🔰   (^ −)             👻                                         👻 👻                                         👻                     💀💀 👻                                         👻 👻                                         👻       👻  👻  👻 👻                    👻              👻       👻                                         👻 👻                                         👻                     💀💀 👻                                         👻 👻                       👻 [229711813] joined and Service Msg deleted (#spam name)
+ 
+[ Fri May 27 20:50:37 2016 ]=>  ﺑﻲ ﺗﻮ...ﺷﻚ ﻧﻜﻦ ﻣﻦ ك ﻫﻴﭻ اﺳﻤﺎﻥ ﻫﻢ ﺯﻣﻴﻦ ﻣﻴﺨﻮﺭﺩ [178123835] joined and Service Msg deleted (#spam name)
+ 
+[ Fri May 27 20:53:22 2016 ]=>  ✞ ڔًًٍٍٍهٍٍٍٍٍٍـًٍََـًًٍِ؁ــًًٍٍـًٍاًٍٍٍٍٍٍٍْْٰ مٍٍٍٍٍٍٍٍُُُُخٍٍٍٍٍٍٍٍٍٍٍِّٰــًٍ ًٍـ๏̯̃๏ــًٍٍ ًٍرًًًًًٍٍٍٍٍٍدٍٍٍٍٍٓٓٓےًًٍٍٍٍٍٍٍٍٍٍٍ  ✞ [125063712] joined and Service Msg deleted (#spam name)
+ 
+[ Fri May 27 21:06:48 2016 ]=>  ٍٍ ًٍٍٍٍٍٍٍٍٍِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ٍ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ««فیاض»»ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ٍ ٍٍٍٍٍِِِِِِ ٍٍ ًٍٍٍٍٍٍٍٍٍِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ٍ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ««فیاض»»ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ًٍٍٍٍٍٍٍٍٍِِِِِِ ٍ ٍٍٍٍٍِِِِِِ [186748847] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 07:43:42 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 08:33:35 2016 ]=>  خودم اس رفیقام خاص گوربابای اونی که منو نخواس [94408927] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 08:45:24 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 10:41:47 2016 ]=>  🎵دخــــــــے نــــــــــــــــاز🎧 [116170876] requested group rules
+ 
+[ Mon May 30 11:27:44 2016 ]=>  【ٵڼیـــ  ﹩aηЇښــٵ کـKѦßø﹩Ѧℳــأبۇښم ږۄآڵـهھه؟؟؟】ګص ڹڼټ آڲ بم بخاے شأڅۺيے طٷړى مێڲٱمت ڪ ٲښمٹ بۯنڋ ښإل بڜهھ ږۅٲآٳڷھھھ؟؟   ڐڬۯڷبټ ڦڨط 【ٵڼیـــ  ﹩aηЇښــٵ ڮـ ـ   KÅ♭ø Ѧღږۄآڵـهھ】 ﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▉▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊▊ [131009586] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:07:45 2016 ]=>  BiGBanG💥--🔃 [191811740] kicked for #spam
+ 
+[ Mon May 30 12:07:45 2016 ]=>  BiGBanG💥--🔃 [191811740] kicked for #spam
+ 
+[ Mon May 30 12:07:45 2016 ]=>  BiGBanG💥--🔃 [191811740] kicked for #spam
+ 
+[ Mon May 30 12:07:46 2016 ]=>  BiGBanG💥--🔃 [191811740] kicked for #spam
+ 
+[ Mon May 30 12:23:08 2016 ]=>  😖ًًًًًًًًًًٍٍٍٍٍٍٍٍٍ بًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِہًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍِِزًًًًًٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِِاًًًًًًًًًًًًًًًًٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍِِِدًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍِ ًًًًًًًٍٍٍٍٍٍٍٍٍٍِِِ😔 [197619037] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:26:36 2016 ]=>  offline @tabadminssoheyl [193067420] kicked for #spam
+ 
+[ Mon May 30 12:30:00 2016 ]=>  ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ [217448891] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:30:00 2016 ]=>  ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ ⚔masood😈fucker⚔ [217448891] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:35:22 2016 ]=>  ⚔masood😈fucker⚔⚔masood😈fucker⚔⚔masood😈fucker⚔⚔masood😈fucker⚔ @masoodfucker [217448891] kicked for #spam
+ 
+[ Mon May 30 12:35:22 2016 ]=>  ⚔masood😈fucker⚔⚔masood😈fucker⚔⚔masood😈fucker⚔⚔masood😈fucker⚔ @masoodfucker [217448891] kicked for #spam
+ 
+[ Mon May 30 12:46:39 2016 ]=>  ℳ...😍...ℳ(اول و آخـــرشـــمـــ فقـــط خـــودمـــم [201849776] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:46:39 2016 ]=>  ℳ...😍...ℳ(اول و آخـــرشـــمـــ فقـــط خـــودمـــم [201849776] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 12:46:45 2016 ]=>  سنگ صبور [236714235] requested group rules
+ 
+[ Mon May 30 13:07:21 2016 ]=>  ↩اعـــــــــوذبالــــله من الــادم لاشــــــ↪ [92205705] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:07:21 2016 ]=>  ↩اعـــــــــوذبالــــله من الــادم لاشــــــ↪ [92205705] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:07:21 2016 ]=>  ↩اعـــــــــوذبالــــله من الــادم لاشــــــ↪ [92205705] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:07:21 2016 ]=>  ↩اعـــــــــوذبالــــله من الــادم لاشــــــ↪ [92205705] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:13:27 2016 ]=>  ❤ِمْــــــــــ×ـــهرانـــــْْْــــــ❤ [230105732] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:13:27 2016 ]=>  ❤ِمْــــــــــ×ـــهرانـــــْْْــــــ❤ [230105732] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 13:27:42 2016 ]=>  سیمورغ [54848372] kicked for #spam
+ 
+[ Mon May 30 13:27:42 2016 ]=>  سیمورغ [54848372] kicked for #spam
+ 
+[ Mon May 30 13:27:43 2016 ]=>  سیمورغ [54848372] kicked for #spam
+ 
+[ Mon May 30 14:40:12 2016 ]=>  ِحــــــَْْْْْْْْْْْْْْ۪۪ٜ۪۪۪ٜؒؔ◌͜͡◌ـْْ۪۪ٜؓؔمــــــــــَ۪۪ٜؒؔیـ◌͜͡◌ـ۪۪ٜؓؔده ყًٍَََََََََََََََِِِِِِِِِِِِِِ ყًٍَََََََََََِِِِِِِِِِِِِ [195873472] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 15:42:49 2016 ]=>  🔪🔫anti daesh🔪🔫 ایهاالسلفین والتکفیرین یاشیعه ابی السفیان یااحطام بی الک یامفتخرین بجدکم یزیداسمعوناجیدانحن شیعه علی ابن ابی الطالب واخواننااهله سنتی اشراکون مانانحن شیعه علی ابن ابی الطالب نحن اخفانا قالبه لکله القالب نحن مضحر العجایب لبیک یازینب [101139334] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 16:04:11 2016 ]=>  :'(تنهادلیلانلاینیمنتنهای:'( [145215801] kicked for #spam
+ 
+[ Mon May 30 16:04:11 2016 ]=>  :'(تنهادلیلانلاینیمنتنهای:'( [145215801] kicked for #spam
+ 
+[ Mon May 30 16:04:12 2016 ]=>  :'(تنهادلیلانلاینیمنتنهای:'( [145215801] kicked for #spam
+ 
+[ Mon May 30 16:04:12 2016 ]=>  :'(تنهادلیلانلاینیمنتنهای:'( [145215801] kicked for #spam
+ 
+[ Mon May 30 16:08:22 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 16:14:45 2016 ]=>  گًٍرًٍنًٍیًٍمًٍهًٍ‌ًٍشًٍبًٍ سًٍخًٍتًٍ‌ًٍدًٍرًٍ ًٍ. ًٍ. ًٍ.دًٍرًٍاًٍغًٍوًٍشًٍ‌ًٍمًٍنًٍ‌ًٍاًٍفًٍتًٍیًٍ ًٍ. ًٍ. ًٍ. ًٍچًٍنًٍدًٍاًٍنًٍ‌ًٍزًٍلًٍبًٍتًٍ‌ًٍ‌ًٍبًٍوًٍسًٍهًٍ‌ًٍ💋 ًٍ. ًٍ. ًٍ.زًٍنًٍمًٍ‌ًٍاًٍزًٍنًٍفًٍسًٍ‌ًٍاًٍفًٍتًٍیًٍ [209457019] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 16:20:02 2016 ]=>  Şคēē໓ ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ💔 ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ💔 ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ💔 ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ💔 ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ💔 ❤️ ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ  ฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟฟ [179115772] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 16:20:50 2016 ]=>  🌷 عاشق دستان پدرم 🌷 🌷ودل لرزان مادرم 🌷 [138860808] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 16:46:18 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 17:03:24 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] set: [197062270] as admin by reply
+ 
+[ Mon May 30 17:08:15 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 17:16:42 2016 ]=>  💋💋دخــــــــــــــــــــــے💄بــــــــــــــــــابــــــــــــــــام💋💋 [165096597] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 17:24:41 2016 ]=>  ٍٍٍٍٍٍٍٍ ٍٍٍٍٍٍٍٍٍٍفـــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـــــــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍــــــٍٍٍٍٍٍٍٍٍٍٍ ٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍــــــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍڕٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍیـــــٍ ٍٍٍٍٍٍٍٍ ٍٍٍٍٍٍٍٍٍٍفـــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍـــــــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍــــــٍٍٍٍٍٍٍٍٍٍٍ ٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍــــــــٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍڕٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍیـــــٍ [131700691] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 17:48:41 2016 ]=>  >>>>👈🔪جــــــــــــــــــــــــⓙⓐⓥⓐⓓــــــــــــــــــــــواد🔪👉<<<<< [111082756] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 17:49:10 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 18:33:38 2016 ]=>  ｷª尺ㄎんªÐ [117767713] kicked for #spam
+ 
+[ Mon May 30 18:33:38 2016 ]=>  ｷª尺ㄎんªÐ [117767713] kicked for #spam
+ 
+[ Mon May 30 18:33:39 2016 ]=>  ｷª尺ㄎんªÐ [117767713] kicked for #spam
+ 
+[ Mon May 30 18:33:39 2016 ]=>  ｷª尺ㄎんªÐ [117767713] kicked for #spam
+ 
+[ Mon May 30 18:33:45 2016 ]=>  ｷª尺ㄎんªÐ [117767713] kicked for #spam
+ 
+[ Mon May 30 18:56:47 2016 ]=>  >>>>👈🔪جــــــــــــــــــــــــⓙⓐⓥⓐⓓــــــــــــــــــــــواد🔪👉<<<<< [111082756] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 19:11:20 2016 ]=>  ََََََََحََََََََََََََََََََََََــٍٍٍٍٍٍٍٍٍٍََََََََََََََـََََََََــمٍٍٍٍٍٍََََََََََََزًََََََََََََِِِِِِِِِِهََََََََََََََََََََََ  ََََورژن جدید [190206568] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 19:29:58 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:58 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:58 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:59 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:59 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:59 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:59 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:29:59 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:03 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:03 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:03 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:03 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:04 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:04 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:04 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:05 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:05 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:08 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:08 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:08 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:08 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:09 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:09 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:09 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:12 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:13 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:13 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:13 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:14 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:14 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:17 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:17 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:18 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:18 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:21 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:22 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:23 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:30:23 2016 ]=>  ﷽یسـ❀»ყ๔ธπस«❀ـنا✦﷽ [223932535] kicked for #spam
+ 
+[ Mon May 30 19:54:22 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Mon May 30 20:22:51 2016 ]=>  ♕♨ڪـًًًًًًًٌٍٍٍٍٍَِٰٖٓۨۘ؁ـًًًٌٍٍٍٍٍٍۜۗٓلـًًًًًًًًًًٍٍٍٍٍٍٍِۜ؁ـًًًًًًٍٍٍٍٍٍٍٍَُِٖٓہ⇜خًًٍٍٍَِٰٖۘۙۘۨــًًًًًًٍٍٍٍٍّْٰٰٖٓ؁ًـًًًٍٍٍٍُْٰۜۛٓۨۚرٍٍٍْآبًًًًًٌٍٍٍٍٍٍَِٓـ﹏ـًٍَِّٰٰٖۘۙۘۙٓۨ⇶♔ ┏━━━┓ ┃┏━━┛ ┃┗━━┓ ┃┏━━┛ ┃┃ ┗┛ ┏┓╋┏┓ ┃┃╋┃┃ ┃┃╋┃┃ ┃┃╋┃┃ ┃┗━┛┃ ┗━━━┛ ┏━━━┓ ┃┏━┓┃ ┃┃╋┗┛ ┃┃╋┏┓ ┃┗━┛┃ ┗━━━┛ ┏┓┏━┓ ┃┃┃┏┛ ┃┗┛┛ ┃┏┓┃ ┃┃┃┗┓ ┗┛┗━┛ [38364276] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 20:38:25 2016 ]=>  ↹دُخــًًي تُخًٍـٍٍـًًـٍٍـًً௸ـًًـًًـًًسمًَـ [147999579] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 20:38:25 2016 ]=>  ↹دُخــًًي تُخًٍـٍٍـًًـٍٍـًً௸ـًًـًًـًًسمًَـ [147999579] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 20:38:25 2016 ]=>  ↹دُخــًًي تُخًٍـٍٍـًًـٍٍـًً௸ـًًـًًـًًسمًَـ [147999579] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 20:38:25 2016 ]=>  ↹دُخــًًي تُخًٍـٍٍـًًـٍٍـًً௸ـًًـًًـًًسمًَـ [147999579] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 30 20:44:10 2016 ]=>  رامین.... [153004769] kicked for #spam
+ 
+[ Mon May 30 20:44:10 2016 ]=>  رامین.... [153004769] kicked for #spam
+ 
+[ Mon May 30 20:50:30 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 20:50:30 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 20:50:30 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 20:50:30 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 20:50:31 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 20:50:31 2016 ]=>  Omid [174994638] kicked for #spam
+ 
+[ Mon May 30 21:26:37 2016 ]=>  تولـــــــــــــدم اشــــــــــتباه بــــــــــود [197008353] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 31 03:46:01 2016 ]=>  ☆☆مــــــــــــــــــــرد،تــــــــــــــــــــنــــــــــهای،شــــــــــــــــــــبــــــــــــــــــــها☆☆ [140403154] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 31 03:59:27 2016 ]=>  Уαทℓïz ๓εทï๓ ๑ℓ🔜 😔😔 [106512277] requested group link [https://telegram.me/joinchat/Blk_lT9tnoOAm4U9nQU45Q]
+ 
+[ Tue May 31 06:06:43 2016 ]=>  🎀👑پًٍـًٍـًٍـًٍـًًٍـًٍـًٍرًٌٍیًٍـًٍـًٍـًٍـًًٍـًٍـًٍـًٍքಕիរ៌័នើಕـًٍـًًٍـًٍـًًًٍٍسًًٍٍـًٍاًًٍٍ👑🎀 👉💕🌹L♥V£👅💕👈 [200874265] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 31 07:14:59 2016 ]=>  ★★★عــــــــــــــارفـــــــــــ★★★ . [166339679] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 31 08:24:19 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked sticker posting
+ 
+[ Tue May 31 08:25:08 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 31 08:25:12 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Tue May 31 09:09:38 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Tue May 31 10:13:00 2016 ]=>  👩💘قًٍَــلًٍبًٍِـــ (💄💋👠👗💅‌)سًٍَنـًٍـگًٍــًٍـےًٍ💘👩 [216268077] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 31 10:32:16 2016 ]=>  ζαняα [119907452] kicked for #spam
+ 
+[ Tue May 31 10:32:17 2016 ]=>  ζαняα [119907452] kicked for #spam
+ 
+[ Tue May 31 10:32:17 2016 ]=>  ζαняα [119907452] kicked for #spam
+ 
+[ Tue May 31 10:32:18 2016 ]=>  ζαняα [119907452] kicked for #spam
+ 

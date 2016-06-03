@@ -1,0 +1,14 @@
+[ Tue May 24 21:54:56 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Tue May 24 21:55:22 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [92511900] as owner by reply
+ 
+[ Tue May 24 21:55:31 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set group to: public
+ 
+[ Tue May 24 21:57:30 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @@Diyako1818[106284673] by reply
+ 
+[ Tue May 24 21:59:30 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 24 21:59:37 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked tgservice actions
+ 
+[ Wed May 25 17:32:30 2016 ]=>  ✨امــــــــــส๓ไ‌řیــــــــر✨ [92511900] locked link posting 
+ 

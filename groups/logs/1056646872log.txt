@@ -1,0 +1,42 @@
+[ Mon May 23 17:24:38 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Mon May 23 17:29:03 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] used /owner
+ 
+[ Mon May 23 17:29:21 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [233801445] as owner by reply
+ 
+[ Mon May 23 17:29:58 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [10]
+ 
+[ Mon May 23 17:31:06 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Mon May 23 18:22:17 2016 ]=>  برای عشق زود رسیدن بهتر از هرگز نرسیدن است ali [152237377] joined and Service Msg deleted (#spam name)
+ 
+[ Mon May 23 19:38:29 2016 ]=>  badakhlaGH [233801445] locked forward posting
+ 
+[ Mon May 23 19:40:52 2016 ]=>  badakhlaGH [233801445] requested SuperGroup settings 
+ 
+[ Mon May 23 19:42:12 2016 ]=>  badakhlaGH [233801445] set SuperGroup to: mute عکس
+ 
+[ Mon May 23 19:42:39 2016 ]=>  badakhlaGH [233801445] set SuperGroup to: mute گیف
+ 
+[ Mon May 23 19:42:56 2016 ]=>  badakhlaGH [233801445] set SuperGroup to: mute فیلم
+ 
+[ Mon May 23 19:43:16 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set group to: public
+ 
+[ Mon May 23 20:06:56 2016 ]=>  ✌امیرعلیریپورتم6&4✌ @Xxxx788 [149049678] kicked for #spam
+ 
+[ Mon May 23 20:06:56 2016 ]=>  ✌امیرعلیریپورتم6&4✌ @Xxxx788 [149049678] kicked for #spam
+ 
+[ Mon May 23 20:06:56 2016 ]=>  ✌امیرعلیریپورتم6&4✌ @Xxxx788 [149049678] kicked for #spam
+ 
+[ Tue May 24 05:59:34 2016 ]=>  سـعـًًًًًًًًًًـًًًًًـًًًًًًـًًًًًًًًـًًًًًًـًًًًًًـًًًًًًًـًًًًًًًًـًًًًًـًًًًًيـ؁ًًًًًًًًٌٍٍٍٍٍٍٍٍٍٍَــدًًًًًًًًًًًٌٍٍٍٍٍٍٍٍٍٍٍٍِِِِِِِ ζ!ًْℓναٍηД 🔞 [239629001] joined and Service Msg deleted (#spam name)
+ 
+[ Tue May 24 06:04:08 2016 ]=>  badakhlaGH [233801445] set SuperGroup to: mute عکس
+ 
+[ Tue May 24 06:04:40 2016 ]=>  badakhlaGH [233801445] set SuperGroup to: mute گیف
+ 
+[ Tue May 24 06:12:05 2016 ]=>  badakhlaGH [233801445] requested SuperGroup settings 
+ 
+[ Tue May 24 06:45:37 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set SuperGroup to: not public
+ 
+[ Tue May 24 06:45:43 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set group to: public
+ 

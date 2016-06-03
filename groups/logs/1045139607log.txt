@@ -1,0 +1,142 @@
+[ Mon May 16 17:43:10 2016 ]=>  ѕєηαтσя [77900858] added SuperGroup
+ 
+[ Mon May 16 17:45:45 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 16 17:50:53 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 16 17:51:50 2016 ]=>  ѕєηαтσя [77900858] set: [77900858] as owner by reply
+ 
+[ Mon May 16 18:49:31 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 16 18:51:38 2016 ]=>  ѕєηαтσя [77900858] unlocked link posting
+ 
+[ Mon May 16 18:54:34 2016 ]=>  ѕєηαтσя [77900858] locked link posting 
+ 
+[ Mon May 16 18:54:48 2016 ]=>  ѕєηαтσя [77900858] locked sticker posting
+ 
+[ Mon May 16 18:55:06 2016 ]=>  ѕєηαтσя [77900858] locked contact posting
+ 
+[ Tue May 17 06:25:59 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Tue May 17 06:27:14 2016 ]=>  ѕєηαтσя [77900858] locked mci posting
+ 
+[ Tue May 17 06:27:59 2016 ]=>  ѕєηαтσя [77900858] locked forward posting
+ 
+[ Tue May 17 06:28:09 2016 ]=>  ѕєηαтσя [77900858] promoted mod: @@Mina4o[147433440] by reply
+ 
+[ Tue May 17 13:51:43 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Tue May 17 16:32:38 2016 ]=>  hosseinz @hosseinelahi75 [162795431] kicked for #spam
+ 
+[ Tue May 17 16:32:38 2016 ]=>  hosseinz @hosseinelahi75 [162795431] kicked for #spam
+ 
+[ Tue May 17 16:36:05 2016 ]=>  hosseinz @hosseinelahi75 [162795431] kicked for #spam
+ 
+[ Tue May 17 16:50:28 2016 ]=>  AliZt [188026559] kicked for #spam
+ 
+[ Tue May 17 16:50:28 2016 ]=>  AliZt [188026559] kicked for #spam
+ 
+[ Wed May 18 07:37:37 2016 ]=>  ,,,,,,,,, [189581985] kicked for #spam
+ 
+[ Wed May 18 20:40:30 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Thu May 19 09:17:47 2016 ]=>  ѕєηαтσя [77900858] promoted mod: @@accountant_Senex[227475208] by reply
+ 
+[ Thu May 19 09:18:04 2016 ]=>  ѕєηαтσя [77900858] requested group modlist
+ 
+[ Thu May 19 09:18:14 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Thu May 19 09:45:43 2016 ]=>  ѕєηαтσя [77900858] locked sticker posting
+ 
+[ Thu May 19 09:46:47 2016 ]=>  ѕєηαтσя [77900858] demoted user#id227475208
+ 
+[ Thu May 19 09:49:18 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Thu May 19 09:51:11 2016 ]=>  ѕєηαтσя [77900858] set flood to [3]
+ 
+[ Thu May 19 09:51:27 2016 ]=>  ѕєηєχ [227475208] kicked (arabic was locked) 
+ 
+[ Thu May 19 09:53:43 2016 ]=>  ѕєηαтσя [77900858] set flood to [1]
+ 
+[ Thu May 19 09:55:11 2016 ]=>  ѕєηαтσя [77900858] set flood to [16]
+ 
+[ Thu May 19 09:55:55 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute عکس
+ 
+[ Thu May 19 09:56:08 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute فیلم
+ 
+[ Thu May 19 09:56:21 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute صدا
+ 
+[ Thu May 19 09:57:01 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute متن
+ 
+[ Thu May 19 09:58:00 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute گیف
+ 
+[ Thu May 19 09:58:19 2016 ]=>  ѕєηαтσя [77900858] set SuperGroup to: mute فایل
+ 
+[ Thu May 19 09:59:15 2016 ]=>  ѕєηαтσя [77900858] locked fosh posting
+ 
+[ Thu May 19 10:05:00 2016 ]=>  ویان [121906782] kicked (fosh was locked) 
+ 
+[ Thu May 19 10:06:41 2016 ]=>  ѕєηαтσя [77900858] requested group link [https://telegram.me/joinchat/BKSsOj5LkJfbg1NhwjVXng]
+ 
+[ Mon May 23 14:31:57 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 23 18:15:54 2016 ]=>  Khazaie_Farzad [33788076] kicked (fosh was locked) 
+ 
+[ Mon May 23 18:16:19 2016 ]=>  ѕєηαтσя [77900858] unlocked fosh posting
+ 
+[ Mon May 23 18:24:19 2016 ]=>  ѕєηαтσя [77900858] requested group modlist
+ 
+[ Mon May 23 18:31:36 2016 ]=>  ѕєηαтσя [77900858] promoted user#id33788076
+ 
+[ Mon May 23 18:35:59 2016 ]=>  ѕєηαтσя [77900858] requested group link [https://telegram.me/joinchat/BKSsOj5LkJfbg1NhwjVXng]
+ 
+[ Mon May 23 18:37:48 2016 ]=>  ѕєηαтσя [77900858] promoted user#id192380819
+ 
+[ Mon May 23 18:40:57 2016 ]=>  ѕєηєχ [227475208] requested group modlist
+ 
+[ Tue May 24 12:04:30 2016 ]=>  ѕєηαтσя [77900858] used /owner
+ 
+[ Wed May 25 09:33:21 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 30 16:24:43 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup ID
+ 
+[ Mon May 30 16:37:24 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup info
+ 
+[ Mon May 30 16:39:20 2016 ]=>  ѕєηαтσя [77900858] used /owner
+ 
+[ Mon May 30 19:08:17 2016 ]=>  ѕєηαтσя [77900858] requested SuperGroup settings 
+ 
+[ Mon May 30 19:09:08 2016 ]=>  ѕєηαтσя [77900858] unlocked tgservice actions
+ 
+[ Mon May 30 19:09:42 2016 ]=>  ѕєηαтσя [77900858] promoted mod: @@hosseinelahi75[162795431] by reply
+ 
+[ Mon May 30 19:10:41 2016 ]=>  hossein z [162795431] requested SuperGroup settings 
+ 
+[ Mon May 30 19:12:41 2016 ]=>  ѕєηαтσя [77900858] requested group modlist
+ 
+[ Mon May 30 19:13:31 2016 ]=>  ѕєηαтσя [77900858] obtained id for: [211334983]
+ 
+[ Mon May 30 19:14:35 2016 ]=>  ѕєηαтσя [77900858] demoted @Aghafarzadkhazaiy
+ 
+[ Mon May 30 19:15:08 2016 ]=>  ѕєηαтσя [77900858] demoted user#id147433440
+ 
+[ Mon May 30 19:16:24 2016 ]=>  ѕєηαтσя [77900858] demoted @Mina4o
+ 
+[ Mon May 30 19:16:36 2016 ]=>  ѕєηαтσя [77900858] requested group modlist
+ 
+[ Mon May 30 19:19:22 2016 ]=>  hossein z [162795431] requested SuperGroup settings 
+ 
+[ Mon May 30 19:19:42 2016 ]=>  hossein z [162795431] locked member 
+ 
+[ Mon May 30 19:20:28 2016 ]=>  ѕєηαтσя [77900858] unlocked member 
+ 
+[ Mon May 30 19:58:06 2016 ]=>  ѕєηαтσя [77900858] used /owner
+ 
+[ Tue May 31 03:51:31 2016 ]=>  hossein z [162795431] requested SuperGroup settings 
+ 
+[ Tue May 31 03:51:42 2016 ]=>  hossein z [162795431] locked link posting 
+ 
+[ Tue May 31 11:00:28 2016 ]=>  hossein z [162795431] requested SuperGroup ID
+ 
+[ Tue May 31 11:08:41 2016 ]=>  hossein z [162795431] requested group link [https://telegram.me/joinchat/BKSsOj5LkJfbg1NhwjVXng]
+ 

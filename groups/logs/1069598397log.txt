@@ -1,0 +1,32 @@
+[ Wed May 25 09:30:20 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Wed May 25 09:33:09 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set group to: public
+ 
+[ Wed May 25 09:34:17 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [92712662] as owner by reply
+ 
+[ Wed May 25 09:35:20 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Wed May 25 09:36:33 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [15]
+ 
+[ Wed May 25 10:10:16 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked tgservice actions
+ 
+[ Wed May 25 10:14:23 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] promoted mod: @@royani1[196198666] by reply
+ 
+[ Wed May 25 10:17:19 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] deleted a message by reply
+ 
+[ Wed May 25 10:17:46 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Wed May 25 10:36:35 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Wed May 25 10:36:51 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested SuperGroup settings 
+ 
+[ Wed May 25 10:37:04 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set flood to [10]
+ 
+[ Wed May 25 10:54:41 2016 ]=>  «´¨`•..¤*مًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍجًٍـًٍـًٍـًٍـًٍـًٍـًٍـًٍ๓ًٍคًٍวًٍlðًٍـًٍـًٍـًٍـًٍـًٍیًٍدًٍ*¤.. •´¨`» [204379369] joined and Service Msg deleted (#spam name)
+ 
+[ Wed May 25 11:06:24 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] set: [92712662] as owner by reply
+ 
+[ Wed May 25 11:06:53 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] unlocked tgservice actions
+ 
+[ Wed May 25 11:08:30 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked Tgservice Actions
+ 

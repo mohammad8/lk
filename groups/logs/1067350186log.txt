@@ -1,0 +1,6 @@
+[ Tue May 24 08:45:41 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] added SuperGroup
+ 
+[ Tue May 24 08:45:51 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] locked link posting 
+ 
+[ Tue May 24 08:46:34 2016 ]=>  MessageBox.Show("คՆɿՐ૯ઽค"); [135164371] requested group link [https://telegram.me/joinchat/CA5x0z-eeKorWU-58xYiUA]
+ 
