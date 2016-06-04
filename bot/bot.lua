@@ -257,7 +257,7 @@ function create_config( )
     "inAdmin"
 
     },
-    sudo_users = {87946267,105831687},--Sudo users
+    sudo_users = {87946267,135164371,198834049,111137366,176235909},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[M e g a T e s l a
 -----------------------------------
@@ -267,9 +267,9 @@ A New Bot for manage your SuperGroups.
 -----------------------------------
 @The_DeSigN3r #developer
 -----------------------------------
-@ParsaAlemi #manager
+@MegaLove #manager
 -----------------------------------
-Bot number : +12132754480
+Bot number : +14197466020
 -----------------------------------
 Bot version : 2.5 ]],
     help_text_realm = [[
