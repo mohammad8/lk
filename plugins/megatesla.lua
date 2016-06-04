@@ -9,7 +9,7 @@ A New Bot for manage your SuperGroups.
 -----------------------------------
 @The_DeSigN3r #developer
 -----------------------------------
-@ParsaAlemi #manager
+@MegaLove #manager
 -----------------------------------
 Bot number : +14197646020
 -----------------------------------
