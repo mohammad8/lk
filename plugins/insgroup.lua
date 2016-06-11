@@ -2271,5 +2271,6 @@ return {
   pre_process = pre_process
 }
 --End supergrpup.lua
---By @The_DeSiN3r
+--By @The_DeSiN3r and @Megalove
+
 --a
