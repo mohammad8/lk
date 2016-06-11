@@ -24,14 +24,29 @@ if msg.text == "سلام" and not is_momod(msg) and not is_admin1(msg) and not i
 local text = "سلام به روی ماهت😊️"
 	reply_msg(reply_id, text, ok_cb, false)
 end
-local m = 208955102
+local m = 111137366
 local text = "🙈!سلام دایی جونم"
 if msg.text == "سلام" and msg.from.id == tonumber(m) then
    reply_msg(reply_id, text, ok_cb, false)
 end
-local n = 187549393
-local text = "🙈!سلام خاله جونم"
+local m = 214149199
+local text = "🙈!سلام عمویی جونم"
+if msg.text == "سلام" and msg.from.id == tonumber(m) then
+   reply_msg(reply_id, text, ok_cb, false)
+   end
+local n = 102861658
+local text = "سلام عشقم 😘😘❤️❤️"
 if msg.text == "سلام" and msg.from.id == tonumber(n) then
+   reply_msg(reply_id, text, ok_cb, false)
+end
+local m = 214149199
+local text = "🙈!سلام عمویی جونم"
+if msg.text == "salam" and msg.from.id == tonumber(m) then
+   reply_msg(reply_id, text, ok_cb, false)
+   end
+local n = 102861658
+local text = "سلام عشقم 😘😘❤️❤️"
+if msg.text == "salam" and msg.from.id == tonumber(n) then
    reply_msg(reply_id, text, ok_cb, false)
 end
 if msg.text == "hello" then
@@ -40,7 +55,7 @@ end
 if msg.text == "Salam" then
 	return "Salam aleykom"
 end
-if msg.text == "salam" then
+if msg.text == "salam" and not msg.from.id == tonumber(m) and not msg.from.id == tonumber(n) then
 	return "va aleykol asalam"
 end
 if msg.text == "zac" then
@@ -52,10 +67,10 @@ end
 if msg.text == "ZAC" then
 	return "Barash bezan sak"
 end
-if msg.text == "Umbrella" then
+if msg.text == "Megatesla" then
 	return "Yes?"
 end
-if msg.text == "umbrella" then
+if msg.text == "megatesla" then
 	return "What?"
 end
 if msg.text == "bot" then
@@ -89,8 +104,8 @@ return {
 		"^خدافظ$",
 		"^سلام$",
 		"^خداحافظ$",
-		"^s$",
-		}, 
+		"^s$"
+		},
 	run = run,
     --privileged = true,
 	pre_process = pre_process
