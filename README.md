@@ -82,3 +82,4 @@ chmod +x apilaunch.sh
 cd 
 rm -rf .telegram-cli
 ./apilaunch.sh # add token hash
+# mrarra2005
