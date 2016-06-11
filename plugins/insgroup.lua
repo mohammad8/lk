@@ -1273,7 +1273,7 @@ local function run(msg, matches)
 			channel_set_admin(receiver, 'user#id'..msg.from.id, ok_cb, false)
 		end
 
-		if matches[1] == 'حذف' and is_admin1(msg) and not matches[2] then
+		if matches[1] == 'حذف گروه' and is_admin1(msg) and not matches[2] then
 			if not is_super_group(msg) then
 				return reply_msg(msg.id, 'سوپرگروه اضافه نشده است!', ok_cb, false)
 			end
@@ -1382,7 +1382,7 @@ local function run(msg, matches)
 			end
 		end
 
-		if matches[1] == 'آیدی' then
+		if matches[1] == 'ایدی' then
 			if type(msg.reply_id) ~= "nil" and is_momod(msg) and not matches[2] then
 				local cbreply_extra = {
 					get_cmd = 'id',
@@ -1487,7 +1487,7 @@ local function run(msg, matches)
 			channel_kick(receiver, user, ok_cb, false)
 		end
 
-			if matches[1] == 'ادمین' then
+			if matches[1] == 'ارتقابه ادمین' then
 				if not is_support(msg.from.id) and not is_owner(msg) then
 					return
 				end
@@ -1497,7 +1497,7 @@ local function run(msg, matches)
 					msg = msg
 				}
 				setadmin = get_message(msg.reply_id, get_message_callback, cbreply_extra)
-			elseif matches[1] == 'ادمین' and string.match(matches[2], '^%d+$') then
+			elseif matches[1] == 'ارتقابه ادمین' and string.match(matches[2], '^%d+$') then
 			--[[]	local receiver = get_receiver(msg)
 				local user_id = "user#id"..matches[2]
 				local get_cmd = 'setadmin'
@@ -1506,7 +1506,7 @@ local function run(msg, matches)
 				local	msg = msg
 				local user_id = matches[2]
 				channel_get_users (receiver, in_channel_cb, {get_cmd=get_cmd, receiver=receiver, msg=msg, user_id=user_id})
-			elseif matches[1] == 'setadmin' and not string.match(matches[2], '^%d+$') then
+			elseif matches[1] == 'ارتقابه ادمین' and not string.match(matches[2], '^%d+$') then
 				--[[local cbres_extra = {
 					channel = get_receiver(msg),
 					get_cmd = 'setadmin'
@@ -2206,7 +2206,7 @@ end
 return {
   patterns = {
 	"^(اضافه)$",
-	"^(حذف)$",
+	"^(حذف گروه)$",
 	"^(انتقال) (.*)$",
 	"^(اطلاعات)$",
 	"^(ادمین ها)$",
@@ -2218,8 +2218,8 @@ return {
 	"^(بلاک) (.*)",
 	"^(بلاک)",
 	"^(تبدیل چت)$",
-	"^(آیدی) (.*)$",
-	"^(آیدی)$",
+	"^(ایدی) (.*)$",
+	"^(ایدی)$",
 	"^(ایدی) (.*)$",
 	"^(خروج)$",
 	"^(اخراج) (.*)$",
@@ -2227,8 +2227,8 @@ return {
 	"^(تنظیم لینک)$",
     "^(لینک)$",
 	"^(مشخصات) (.*)$",
-	"^(ادمین) (.*)$",
-	"^(ادمین)",
+	"^(ارتقابه ادمین) (.*)$",
+	"^(ارتقابه ادمین)",
 	"^(-ادمین) (.*)$",
 	"^(-ادمین)",
 	"^(تنظیم صاحب گروه) (.*)$",
